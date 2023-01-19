@@ -1,0 +1,10 @@
+E:\Stream Twittch\Dossiers Reda\Dossiers Nadir\Project jet shooter\Nadzouz Figher jet\Nadzouz Figher jet\bin\Debug\Nadzouz Figher jet.exe.config
+E:\Stream Twittch\Dossiers Reda\Dossiers Nadir\Project jet shooter\Nadzouz Figher jet\Nadzouz Figher jet\bin\Debug\Nadzouz Figher jet.exe
+E:\Stream Twittch\Dossiers Reda\Dossiers Nadir\Project jet shooter\Nadzouz Figher jet\Nadzouz Figher jet\bin\Debug\Nadzouz Figher jet.pdb
+E:\Stream Twittch\Dossiers Reda\Dossiers Nadir\Project jet shooter\Nadzouz Figher jet\Nadzouz Figher jet\obj\Debug\Nadzouz Figher jet.csproj.AssemblyReference.cache
+E:\Stream Twittch\Dossiers Reda\Dossiers Nadir\Project jet shooter\Nadzouz Figher jet\Nadzouz Figher jet\obj\Debug\Nadzouz_Figher_jet.Form1.resources
+E:\Stream Twittch\Dossiers Reda\Dossiers Nadir\Project jet shooter\Nadzouz Figher jet\Nadzouz Figher jet\obj\Debug\Nadzouz_Figher_jet.Properties.Resources.resources
+E:\Stream Twittch\Dossiers Reda\Dossiers Nadir\Project jet shooter\Nadzouz Figher jet\Nadzouz Figher jet\obj\Debug\Nadzouz Figher jet.csproj.GenerateResource.cache
+E:\Stream Twittch\Dossiers Reda\Dossiers Nadir\Project jet shooter\Nadzouz Figher jet\Nadzouz Figher jet\obj\Debug\Nadzouz Figher jet.csproj.CoreCompileInputs.cache
+E:\Stream Twittch\Dossiers Reda\Dossiers Nadir\Project jet shooter\Nadzouz Figher jet\Nadzouz Figher jet\obj\Debug\Nadzouz Figher jet.exe
+E:\Stream Twittch\Dossiers Reda\Dossiers Nadir\Project jet shooter\Nadzouz Figher jet\Nadzouz Figher jet\obj\Debug\Nadzouz Figher jet.pdb
