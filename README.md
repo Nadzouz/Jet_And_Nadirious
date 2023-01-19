@@ -1,1 +1,3 @@
-# Jet_And_Nadirious
+# 
+
+Ce code est un programme C # pour un simple jeu d'avion de chasse 2D. Le programme utilise une minuterie pour contrôler le mouvement du jet du joueur, des jets ennemis et des balles. Le joueur peut déplacer le jet à gauche et à droite à l'aide des touches fléchées gauche et droite et peut tirer des balles à l'aide de la barre d'espace. Le programme garde également une trace du score du joueur et augmente la vitesse des jets ennemis à mesure que le score du joueur augmente. Le jeu est terminé lorsque l'un des jets ennemis atteint le bas de l'écran, et le joueur peut redémarrer le jeu en appuyant sur la touche Entrée.
